@@ -34,8 +34,8 @@ a {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    width: 420px;
-    height: 210px;
+    width: 460px;
+    height: 230px;
     justify-content: space-between;
 }
 
@@ -54,7 +54,7 @@ button {
     background-color: #3882f6;
     color: #f9faf8;
     border-radius: 5px;
-    padding: 5px 20px;
+    padding: 5px 30px;
     border: none;
     font-size: 18px;
 }
@@ -105,7 +105,7 @@ button {
     height: 140px;
     width: 140px;
     border: 2px solid #3882f6;
-    border-radius: 5px;
+    border-radius: 10px;
 }
 
 .section-three {
@@ -132,4 +132,40 @@ button {
     font-weight: 900;
     font-size: 24px;
     text-align: right;
+}
+
+.section-four {
+    padding: 80px 100px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.call {
+    background-color: #3882f6;
+    padding: 40px 100px;
+    color:#e5e7eb;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+    align-items: center;
+    width: 1000px;
+}
+
+.four-header {
+    font-size: 24px;
+    font-weight: 900;
+}
+
+.four-text {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.four-right {
+    display: flex;
+}
+
+.lower {
+    border: 1px solid #f9faf8;
 }
