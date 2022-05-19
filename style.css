@@ -174,4 +174,5 @@ button {
 
 .lower {
     border: 1px solid #f9faf8;
+    flex-shrink: 0;
 }
