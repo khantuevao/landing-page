@@ -124,6 +124,7 @@ button {
     display: flex;
     flex-direction: column;
     align-items: center;
+
 }
 
 .container {
@@ -154,7 +155,7 @@ button {
 .call {
     background-color: #3882f6;
     padding: 40px 100px;
-    color:#e5e7eb;
+    color:#f9faf8;
     display: flex;
     justify-content: space-between;
     border-radius: 10px;
