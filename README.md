@@ -1,2 +1,3 @@
-# landing-page
-html &amp; css project
+# live preview
+
+https://khantuevao.github.io/landing-page/
